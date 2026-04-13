@@ -1,0 +1,1 @@
+find out the sum of all elements from the arrayproduct of even elements from the arrayprint list of sum of digits of the element from the arrayfind out the sum of prime element of the arrayprint the list of name that have started with vowelsprint the list of names which are having even countproduct of digits of prime element from the array

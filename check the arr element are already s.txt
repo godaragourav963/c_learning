@@ -1,0 +1,1 @@
+check the arr element are already sorted or notfind out the sum of array element except smallest and largestcheck the arry elemt are arrainged in accending or decending ordersort the arry element in odd index

@@ -1,0 +1,4 @@
+insert the element in a sorted array
+check the element if it already in the array or not if not insert it with msg
+delete the names from the char array
+insert the new name at the specific position

@@ -1,0 +1,1 @@
+replace the exiciting element using linear searchprint the list of elemnt within the specific rangeprint the lit of element  wich is not in specific rangeswap the first and last element of te array\fint out the sum of first largest and the secomd largest of the array

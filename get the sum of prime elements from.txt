@@ -1,0 +1,7 @@
+get the sum of prime elements from the array yb passing the array to the function
+find out the multiplaction of two matrix
+from the two matrix find out the common elements
+delete the even elemets from the array
+sort the list of name in asc order
+check the name is alredy present in the array using binary search
+insert the list of elements based on user input
